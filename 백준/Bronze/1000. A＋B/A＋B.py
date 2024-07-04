@@ -1,6 +1,6 @@
 a, b = map(int, input().split())
 
-def sum(a, b):
+def add(a, b):
     return a+b
 
-print(sum(a, b))
+print(add(a, b))
